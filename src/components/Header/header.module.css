@@ -1,0 +1,24 @@
+.header {
+  height: 100px;
+  width: 100%;
+  margin-bottom: 80px;
+  background-color: lightgray;
+  box-shadow: 0 3px 6px 3px black;
+  display: flex;
+  align-items: center;
+}
+
+.header_text {
+  font-weight: 500;
+  margin-left: 15px;
+}
+
+.btn {
+  background-color: transparent;
+  border-radius: 6px;
+  padding: 5px 15px;
+  margin-left: auto;
+  margin-right: 15px;
+  box-sizing: border-box;
+  font-size: 18px;
+}

@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 15px;
+  box-sizing: border-box;
+  width: 400px;
+  align-self: center;
+  justify-self: center;
+  align-items: center;
+  border-radius: 15px;
+  box-shadow: 3px 5px 10px 6px black;
+}
+
+.cardHeader {
+  margin-top: 20px;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.price {
+  font-size: 18px;
+}
+
+.img {
+  width: 350px;
+  height: 250px;
+  border-radius: 10px;
+  border: 2px solid #888;
+}
